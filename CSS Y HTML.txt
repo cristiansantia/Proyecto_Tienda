@@ -1,0 +1,2 @@
+1.- Elaboramos la pagina web de la tienda onlinea utilizando css y html donde cree un index donde contiene el codigo
+y tambien una clase de style donde contiene los estilos de la pagina y script una carpeta de imagenes
