@@ -1,0 +1,4 @@
+**********************************************
+Para esta version 2.0 beta, se diseño una version con el uso de bootstrap para el diseño
+de la pantalla del contenido de la pagina. De igual manera se codifico la parte del contenido 
+que se puede mostrará al cliente.
